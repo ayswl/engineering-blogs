@@ -311,7 +311,6 @@
 * REA Group http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
-* Redino http://redino.net/blog/
 * Red Hat https://developers.redhat.com/blog/
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
@@ -416,7 +415,6 @@
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
-* We Are Wizards https://blog.wearewizards.io/
 * WebEngage http://engineering.webengage.com/
 * Wemake.services https://medium.com/wemake-services
 * WePay https://wecode.wepay.com/
@@ -425,7 +423,6 @@
 * Wix https://www.wix.engineering/blog
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
-* Wonga Technology http://tech.wonga.com/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
@@ -436,7 +433,6 @@
 * Yahoo https://yahooeng.tumblr.com/
 * Yammer https://medium.com/yammer-engineering
 * Yelp https://engineeringblog.yelp.com/
-* YLD! https://blog.yld.io
 
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
