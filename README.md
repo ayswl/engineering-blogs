@@ -144,6 +144,7 @@
 * Faraday http://blog.faraday.io/
 * Feedzai https://medium.com/feedzaitech
 * Fiftythree http://making.fiftythree.com/
+* Figma https://www.figma.com/blog/section/engineering/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
 * Firmafon https://dev.firmafon.dk/blog/
