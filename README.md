@@ -397,12 +397,12 @@
 #### U companies
 * Uber http://eng.uber.com/
 * Universe https://engineering.universe.com
-* Upday https://upday.github.io/
+* Upday https://medium.com/upday-devs
 * UpGrad https://engineering.upgrad.com
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
-* Venmo http://blog.venmo.com/?category=Engineering
+* Venmo http://blog.venmo.com/engineering
 * VersionEye https://blog.versioneye.com/
 * Vevo http://blog.vevo.com/
 * Viget https://www.viget.com/articles/category/code#articles
